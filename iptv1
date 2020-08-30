@@ -343,10 +343,10 @@ http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
-http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+https://live.we-play.tv/documentary/natwild/chunks.m3u8?nimblesessionid=50291899&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDY6MzE6NDkgQU0maGFzaF92YWx1ZT1BODRqZmxiS1lVVDlNOEhNYzJtNnh3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Nat Geo People
-http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+https://live.we-play.tv/documentary/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDY6MzU6MDggQU0maGFzaF92YWx1ZT12ZTdtY2NFVGdaR2s3djQwbmRlYjZ3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
