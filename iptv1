@@ -293,8 +293,8 @@ http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTINF:-1 group-title="InterSports"tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
 http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="InterSports"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport-asia.png",Eurosport Asia
+https://live.we-play.tv/sports/ais-eurosport/chunks.m3u8?nimblesessionid=50293755&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDY6NTQ6MjMgQU0maGFzaF92YWx1ZT1IMmlDVElJdWxlcW5qc2xsZTRmc0tnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1 group-title="InterSports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
@@ -349,7 +349,7 @@ https://live.we-play.tv/documentary/natwild/chunks.m3u8?nimblesessionid=50291899
 https://live.we-play.tv/documentary/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDY6MzU6MDggQU0maGFzaF92YWx1ZT12ZTdtY2NFVGdaR2s3djQwbmRlYjZ3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+https://live.we-play.tv/documentary/animalplanet/chunks.m3u8?nimblesessionid=50292813&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDY6NDM6MDIgQU0maGFzaF92YWx1ZT1WMU5IbEZXZTNjNGNneGl0RUlKdTVBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-expwild.png",True Explore Wild TH
 http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
