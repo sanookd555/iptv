@@ -93,7 +93,6 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-
 #EXTINF:-1 group-title="#ThaiTV"" tvg-logo="https://i.imgur.com/5p7CKwi.png",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="#ThaiTV"" tvg-logo="https://i.imgur.com/AHmnFAw.png",Fashion Channel
@@ -110,14 +109,6 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="#ThaiTV"" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3
 http://doo2you.com/tv/WE-PlAY-TV3.php
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
