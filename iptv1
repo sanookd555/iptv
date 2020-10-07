@@ -1,4 +1,102 @@
 #EXTM3U
+
+
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+http://dootvthai-hd.com:80/cmd/true/NBT-HD/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV ThaiPBS
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-boomerang.png",Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+#EXTINF:-1 group-title="Movie" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",Channel 8  
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.doohdbox.com/assets/20190526113654844678530.jpg",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png",CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/CZCeur17_400x400.jpg",TNN16
+http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+#EXTINF:-1 group-title='ThaiTV' tvg-logo="https://images.ufoiptv.com/channels/sd-new.jpg",New TV
+https://cdn6.goprimetime.info//feed//newtv//index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/wNdpnUj.png" ,M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://pbs.twimg.com/profile_images/956004844128550913/RQ1YP3z-_400x400.jpg",PSI สาระดี
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://dootvthai-hd.com/cmd/api/true/CH8-HD/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",Mono Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29 
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/mcot-hd.png",MCOT HD
+http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist-sd.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath HD
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3
+http://27.254.130.64/live01/ch0.m3u8?p=st
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/amarin1.png",Amarin HD
+http://27.254.130.64:80/feed/chamarin/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/ch7-hd.png",CH7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+http://27.254.130.64/live01/chsd_PPTV_HD_2.m3u8?p=st
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://images.ufoiptv.com/channels/sd-fantv.jpg",Fan Tv
+http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQk7B4aRGRpdsRPXVIgukjUm-MtcdZ8ZYIswg&usqp=CAU" ,RAMA CHANNEL
+http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",ลาวสตาร์
+http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg",MV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",TVB Thai
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",ไทบ้าน
+https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",69TV
+https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",บันเทิงเกินร้อย
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",Happy TV
+https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg",Thai Variety
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",อีสานทีวี
+https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",สยาม
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",ลิโด้
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",สกาล่า
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",ราม่า
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3
 http://doo2you.com/tv/WE-PlAY-TV3.php
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
