@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3
 http://doo2you.com/tv/WE-PlAY-TV3.php
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
-http://doo2you.com/tv/WE-PlAY-TV5.php
+http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w1173294366.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.ufoiptv.com/channels/ch7hd.jpg",CH7
 http://doo2you.com/tv/WE-PlAY-ch7.php
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
