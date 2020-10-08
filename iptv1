@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
-http://dootvthai-hd.com:80/cmd/true/NBT-HD/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",ThaiPBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV ThaiPBS
@@ -32,7 +32,7 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
-http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+https://stream-03.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8k_N8NPcgnddrxdwrPeo7dg)/dm/3/x6g9qjj/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 group-title="#ThaiTV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
